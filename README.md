@@ -19,4 +19,4 @@ I specialize in architecting high-performance data pipelines, advanced web scrap
 ### 🏆 Awards & Recognitions
 - 🥇 **1st Place: 2021 BB Media Hackathon:** Developed a full-stack automated data extraction and real-time ranking dashboard for global streaming platforms.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) | [Email](mailto:tu-email@example.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) | [Email](mailto:matikrapf@gmail.com)
