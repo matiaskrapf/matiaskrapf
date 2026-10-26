@@ -10,11 +10,12 @@ I specialize in architecting high-performance data pipelines, advanced web scrap
 - 👨‍💻 I don't just write scripts; I transform operational bottlenecks into scalable automated workflows, ensuring zero-downtime data delivery for enterprise B2B clients.
 
 ### 💻 Tech Stack & Tools
-* **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
-* **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![NocoDB](https://img.shields.io/badge/NocoDB-3B82F6?style=flat&logo=nocodb&logoColor=white)
-* **Backend & APIs:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-005C84?style=flat)
-* **Infrastructure & Ops:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-* **Automation:** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Slack API](https://img.shields.io/badge/Slack_Bots-4A154B?style=flat&logo=slack&logoColor=white)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![NocoDB](https://img.shields.io/badge/NocoDB-3B82F6?style=flat&logo=nocodb&logoColor=white)
+- **Backend & APIs:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=flat) ![Webhooks](https://img.shields.io/badge/Webhooks-222222?style=flat)
+- **Infrastructure & Ops:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+- **Automation & Integrations:** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) ![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white) ![Slack API](https://img.shields.io/badge/Slack_Bots-4A154B?style=flat&logo=slack&logoColor=white)
+- **Data Engineering:** ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat) ![Web Scraping](https://img.shields.io/badge/Advanced_Scraping-009688?style=flat)
 
 ### 🏆 Awards & Recognitions
 - 🥇 **[1st Place: 2021 BB Media Hackathon](https://www.linkedin.com/in/matiaskrapf/overlay/Honor/2033052768/treasury/?profileId=ACoAADVlzIQByscu3KI6_FsUNdn5sva1qbwHk_M):** Developed a full-stack automated data extraction and real-time ranking dashboard for global streaming platforms.
