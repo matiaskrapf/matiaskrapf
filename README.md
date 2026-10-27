@@ -1,24 +1,24 @@
-# Hi, I'm Matías Krapf 👋
+# Hi there 👋, I'm Matías Krapf
+**Technical Leader & Data Engineer | Architecture & Automation Specialist**
 
-**Technical Leader & Data Engineer · Prices, Plans & Bundles at Fabric Insights**
+I specialize in architecting high-performance data pipelines, advanced web scraping infrastructures, and automated intelligence systems. Currently, I build the systems that turn the open web into reliable market data for Tier-1 streaming giants like Netflix, Warner Bros. Discovery, and Disney.
 
-I build and run the data systems behind streaming market intelligence: scrapers that track how platforms price and package their services, the pipelines that clean and store that data, and the automation that turns it into alerts for B2B clients. Before data engineering I worked as a network engineer at an ISP, which still shapes how I think about infrastructure, security and monitoring.
+### 🚀 Current Focus
+- 🔭 **Strategy & Leadership:** Spearheading the technical strategy for Prices, Plans & Bundles at Fabric Insights, orchestrating the end-to-end data lifecycle for 300+ streaming platforms across ~150 countries.
+- ⚙️ **Massive-Scale Extraction:** Leading Python scraping fleets executing ~9,000 daily runs with a 98% success rate, bypassing complex anti-bot measures using proxies, VPNs, and Playwright.
+- 🏗️ **Data Architecture:** Designing event-driven delivery pipelines and MongoDB-backed architectures that cut market anomaly detection times from 23 hours to real-time (4x faster).
+- 👨‍💻 **Zero-Touch Operations:** Architecting automated webhook infrastructures (FastAPI) that synchronize our data engines with Jira/ClickUp, autonomously organizing 500+ tickets and eliminating manual bottlenecks.
 
-### 🚀 What I'm working on
-- 🔭 **Leading PPB:** Technical lead for Prices, Plans & Bundles at Fabric Insights: priorities, standards, code reviews and mentoring.
-- ⚙️ **Data pipelines:** Python scrapers for prices, plans, bundles and offers across platforms and countries, with the MongoDB models and ETLs behind them.
-- 📬 **Client alerts:** A pipeline that turns detected changes into validated alerts, matches them to each client and delivers them by email, with delivery tracking and automatic retries.
-- 🤖 **Automation:** FastAPI services and bots that keep Jira, ClickUp and Slack in sync with coverage gaps, scraper health and client onboarding.
-- 🧪 **AI experiments:** Prototyping LLM-based checks (Gemini API) to flag false-positive alerts and comparing them with rule-based validation.
-
-### 💻 Tech Stack
-- **Languages & Data:** Python, SQL, Bash, Pandas, NumPy
+### 💻 Tech Stack & Tools
+- **Languages:** Python, SQL, Bash
+- **Data Extraction:** Playwright, Advanced Web Scraping, Proxy/VPN Routing, API Reverse Engineering
 - **Databases & APIs:** MongoDB, PostgreSQL, NocoDB, FastAPI, REST
-- **Automation & Integrations:** Jira, Slack, ClickUp, Microsoft Graph, Webhooks
-- **Infrastructure:** Linux, Docker, Git, cron, CI/CD
-- **Networking (background):** Ubiquiti, MikroTik, TCP/IP, VLANs, VPNs
+- **Architecture & AI:** Event-Driven Pipelines, LLM Prototyping, Automated Data Governance
+- **Automation & Ops:** Jira/Slack/Microsoft Graph APIs, Webhooks, Linux, Git, CI/CD
 
-### 🏆 Awards
-- 🥇 **1st Place, 2021 BB Media Hackathon:** Built a full-stack app that extracted and ranked the most-watched titles across streaming platforms, with a live dashboard. It later became a commercial product.
+### 📈 Impact & Milestones
+- **High-Fidelity Delivery:** Scaled validation architecture to deliver 4,000+ B2B pricing alerts, with 70% reaching enterprise clients within 24 hours of global market changes.
+- **False Positive Reduction:** Engineered feedback loops and data governance pipelines that slashed false anomaly detections from 90% down to 20%.
+- **🏆 1st Place - BB Media Hackathon:** Developed a full-stack Flask/Python streaming viewership dashboard that evolved into a core intelligence product for global clients.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) · [Email](mailto:matikrapf@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) | [Email Me](mailto:tu-email@ejemplo.com)
