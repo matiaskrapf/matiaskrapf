@@ -1,22 +1,24 @@
-# Hi there 👋, I'm Matías Krapf
-**Technical Leader & Data Engineer | Architecture & Automation Specialist**
+# Hi, I'm Matías Krapf 👋
 
-I specialize in architecting high-performance data pipelines, advanced web scraping infrastructures, and automated intelligence systems. Coming from a background in network engineering and infrastructure security, I build autonomous, fault-tolerant backends that scale and deliver critical market intelligence to Tier-1 streaming giants like Netflix, Warner Bros. Discovery, and Disney.
+**Technical Leader & Data Engineer · Prices, Plans & Bundles at Fabric Insights**
 
-### 🚀 Current Focus
-- 🔭 **Strategy & Leadership:** I’m currently spearheading the technical strategy for the Prices, Plans & Bundles division at Fabric Insights, orchestrating the end-to-end data lifecycle for the global streaming industry.
-- ⚙️ **Core Engineering:** Architecting event-driven data delivery pipelines and scaling Python-based scraping fleets backed by MongoDB.
-- 🤖 **AI & R&D:** Prototyping LLM integrations and AI-assisted validation workflows (Gemini API) to detect anomalies and filter false-positive alerts.
-- 👨‍💻 **Zero-Touch Operations:** Transforming operational bottlenecks into fully automated ecosystems bridging our data engines with Jira and ClickUp via custom FastAPI endpoints and Slack bots.
+I build and run the data systems behind streaming market intelligence: scrapers that track how platforms price and package their services, the pipelines that clean and store that data, and the automation that turns it into alerts for B2B clients. Before data engineering I worked as a network engineer at an ISP, which still shapes how I think about infrastructure, security and monitoring.
 
-### 💻 Tech Stack & Tools
+### 🚀 What I'm working on
+- 🔭 **Leading PPB:** Technical lead for Prices, Plans & Bundles at Fabric Insights: priorities, standards, code reviews and mentoring.
+- ⚙️ **Data pipelines:** Python scrapers for prices, plans, bundles and offers across platforms and countries, with the MongoDB models and ETLs behind them.
+- 📬 **Client alerts:** A pipeline that turns detected changes into validated alerts, matches them to each client and delivers them by email, with delivery tracking and automatic retries.
+- 🤖 **Automation:** FastAPI services and bots that keep Jira, ClickUp and Slack in sync with coverage gaps, scraper health and client onboarding.
+- 🧪 **AI experiments:** Prototyping LLM-based checks (Gemini API) to flag false-positive alerts and comparing them with rule-based validation.
+
+### 💻 Tech Stack
 - **Languages & Data:** Python, SQL, Bash, Pandas, NumPy
 - **Databases & APIs:** MongoDB, PostgreSQL, NocoDB, FastAPI, REST
-- **Architecture & AI:** Event-Driven Pipelines, LLMs, AI-Assisted Validation
-- **Automation & Ops:** Jira/Slack APIs, ClickUp, Webhooks, CI/CD
-- **Infrastructure:** Linux, Docker, Git, Ubiquiti, MikroTik
+- **Automation & Integrations:** Jira, Slack, ClickUp, Microsoft Graph, Webhooks
+- **Infrastructure:** Linux, Docker, Git, cron, CI/CD
+- **Networking (background):** Ubiquiti, MikroTik, TCP/IP, VLANs, VPNs
 
-### 🏆 Awards & Recognitions
-- 🥇 **1st Place: 2021 BB Media Hackathon:** Developed a full-stack automated data extraction and real-time ranking dashboard for global streaming platforms.
+### 🏆 Awards
+- 🥇 **1st Place, 2021 BB Media Hackathon:** Built a full-stack app that extracted and ranked the most-watched titles across streaming platforms, with a live dashboard. It later became a commercial product.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) | [Email](mailto:matikrapf@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/matiaskrapf) · [Email](mailto:matikrapf@gmail.com)
